@@ -1,0 +1,6 @@
+{
+  "name": "Public School, Phulbani",
+  "description": "AI-powered modern school management application for teachers, students, parents, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
